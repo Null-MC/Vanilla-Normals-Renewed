@@ -1,0 +1,96 @@
+name: VNR-edit
+input:
+  format: raw
+profiles:
+- edition: Java
+  format: 13
+  name: VNR-edit-16x
+  description: ''
+  encoding:
+    format: lab-1.3
+    height:
+      max-value: 0.9
+  block-texture-size: 16
+  item-texture-size: 16
+- edition: Java
+  format: 13
+  name: VNR-edit-32x
+  description: ''
+  encoding:
+    format: lab-1.3
+    opacity:
+      sampler: nearest
+    color-red:
+      sampler: nearest
+    color-green:
+      sampler: nearest
+    color-blue:
+      sampler: nearest
+    height:
+      sampler: nearest
+    occlusion:
+      sampler: nearest
+    normal-x:
+      sampler: bilinear
+    normal-y:
+      sampler: bilinear
+    normal-z:
+      sampler: bilinear
+    specular:
+      sampler: nearest
+    smooth:
+      sampler: nearest
+    rough:
+      sampler: nearest
+    metal:
+      sampler: nearest
+    f0:
+      sampler: nearest
+    porosity:
+      sampler: nearest
+    sss:
+      sampler: nearest
+    emissive:
+      sampler: nearest
+  block-texture-size: 32
+- edition: Java
+  format: 13
+  name: VNR-edit-128x
+  description: ''
+  encoding:
+    format: lab-1.3
+    opacity:
+      sampler: nearest
+    color-red:
+      sampler: nearest
+    color-green:
+      sampler: nearest
+    color-blue:
+      sampler: nearest
+    height:
+      sampler: nearest
+    occlusion:
+      sampler: nearest
+    normal-x:
+      sampler: bilinear
+    normal-y:
+      sampler: bilinear
+    normal-z:
+      sampler: bilinear
+    specular:
+      sampler: nearest
+    smooth:
+      sampler: nearest
+    rough:
+      sampler: nearest
+    metal:
+      sampler: nearest
+    f0:
+      sampler: nearest
+    porosity:
+      sampler: nearest
+    sss:
+      sampler: nearest
+    emissive:
+      sampler: nearest
+  block-texture-size: 128

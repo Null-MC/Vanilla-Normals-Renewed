@@ -1,0 +1,11 @@
+texture-width: 64
+texture-height: 32
+wrap-x: false
+wrap-y: false
+blend-mode: transparent
+smooth:
+  value: 0.55
+f0:
+  value: 0.017
+sss:
+  value: 0.6

@@ -1,0 +1,17 @@
+smooth:
+  value: 0.2
+f0:
+  value: 0.03
+sss:
+  value: 0.8
+parts:
+- name: large_fern_top
+  left: 0
+  top: 0
+  width: 16
+  height: 16
+- name: large_fern_bottom
+  left: 0
+  top: 16
+  width: 16
+  height: 16

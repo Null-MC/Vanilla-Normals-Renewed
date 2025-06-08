@@ -1,0 +1,10 @@
+wrap-x: false
+wrap-y: false
+model: block/open_eyeblossom
+blend-mode: cutout
+f0:
+  value: 0.04
+sss:
+  value: 0.4
+emissive:
+  value: 0.05

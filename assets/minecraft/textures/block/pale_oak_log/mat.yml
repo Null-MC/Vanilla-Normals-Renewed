@@ -1,0 +1,11 @@
+normal:
+  curve-x: 90
+  noise: 7
+  method: sobel-high
+  strength: 2
+smooth:
+  value: 0.1
+f0:
+  value: 0.04
+porosity:
+  value: 0.8

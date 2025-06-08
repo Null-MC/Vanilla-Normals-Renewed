@@ -1,0 +1,5 @@
+wrap-x: false
+wrap-y: false
+model: minecraft:block/pearlescent_froglight
+emissive:
+  value: 0.3
