@@ -1,1 +1,6 @@
-{}
+wrap-x: false
+wrap-y: false
+f0:
+  value: 0.16
+sss:
+  value: 0.6

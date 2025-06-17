@@ -1,2 +1,10 @@
+wrap-x: false
+wrap-y: false
+normal:
+  noise: 12
+smooth:
+  value: 0.05
+f0:
+  value: 0.04
 sss:
   value: 0.9

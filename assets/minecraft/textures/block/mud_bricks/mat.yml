@@ -1,0 +1,6 @@
+normal:
+  noise: 8
+f0:
+  value: 0.04
+porosity:
+  value: 0.4

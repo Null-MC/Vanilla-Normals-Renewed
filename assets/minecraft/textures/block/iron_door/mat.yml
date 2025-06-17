@@ -1,0 +1,15 @@
+wrap-x: false
+wrap-y: false
+hcm:
+  value: 230
+parts:
+- name: acacia_door_top
+  left: 0
+  top: 0
+  width: 32
+  height: 32
+- name: acacia_door_bottom
+  left: 0
+  top: 32
+  width: 32
+  height: 32

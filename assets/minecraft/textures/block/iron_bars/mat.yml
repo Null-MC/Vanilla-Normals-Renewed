@@ -1,1 +1,5 @@
-{}
+wrap-x: true
+smooth:
+  value: 0.75
+hcm:
+  value: 230

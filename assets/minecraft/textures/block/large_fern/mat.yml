@@ -1,9 +1,10 @@
+tint-color: '#52D267'
+normal:
+  noise: 32
 smooth:
   value: 0.2
 f0:
   value: 0.03
-sss:
-  value: 0.8
 parts:
 - name: large_fern_top
   left: 0

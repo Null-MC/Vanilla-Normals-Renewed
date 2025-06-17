@@ -1,0 +1,12 @@
+wrap-x: false
+wrap-y: false
+blend-mode: cutout
+normal:
+  curve-x: 120
+  noise: 22
+smooth:
+  value: 0.08
+f0:
+  value: 0.04
+sss:
+  value: 0.8

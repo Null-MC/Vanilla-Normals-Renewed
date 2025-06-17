@@ -1,0 +1,9 @@
+texture-width: 64
+texture-height: 32
+wrap-x: false
+wrap-y: false
+model: entity/armor_layer_1
+smooth:
+  value: 0.75
+hcm:
+  value: 231

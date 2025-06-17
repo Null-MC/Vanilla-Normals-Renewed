@@ -1,0 +1,9 @@
+wrap-x: false
+wrap-y: false
+blend-mode: transparent
+f0:
+  value: 0
+sss:
+  value: 1
+emissive:
+  value: 0.06
