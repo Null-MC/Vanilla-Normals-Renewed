@@ -1,1 +1,6 @@
-{}
+wrap-x: false
+wrap-y: false
+f0:
+  value: 0.11
+porosity:
+  value: 0.4

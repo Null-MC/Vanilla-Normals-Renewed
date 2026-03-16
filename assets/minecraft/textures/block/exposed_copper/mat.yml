@@ -1,1 +1,6 @@
-{}
+wrap-x: false
+wrap-y: false
+hcm:
+  value: 234
+porosity:
+  value: 0.1

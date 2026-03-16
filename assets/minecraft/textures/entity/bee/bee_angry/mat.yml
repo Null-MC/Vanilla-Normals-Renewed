@@ -1,0 +1,46 @@
+texture-size: 64
+wrap-x: false
+wrap-y: false
+f0:
+  value: 0.04
+filters:
+- name: torso-east
+  left: 0
+  top: 0.15625
+  width: 0.15625
+  height: 0.109375
+  normal-noise: 3
+  normal-curve-x: 90
+  normal-curve-y: 90
+  normal-radius-x: 0.5
+  normal-radius-y: 0.6
+- name: torso-north
+  left: 0.15625
+  top: 0.15625
+  width: 0.109375
+  height: 0.109375
+  normal-noise: 3
+  normal-curve-x: 90
+  normal-curve-y: 90
+  normal-radius-x: 0.6
+  normal-radius-y: 0.6
+- name: torso-west
+  left: 0.265625
+  top: 0.15625
+  width: 0.15625
+  height: 0.109375
+  normal-noise: 3
+  normal-curve-x: 90
+  normal-curve-y: 90
+  normal-radius-x: 0.5
+  normal-radius-y: 0.6
+- name: torso-south
+  left: 0.421875
+  top: 0.15625
+  width: 0.109375
+  height: 0.109375
+  normal-noise: 3
+  normal-curve-x: 90
+  normal-curve-y: 90
+  normal-radius-x: 0.6
+  normal-radius-y: 0.6

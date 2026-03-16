@@ -1,0 +1,13 @@
+texture-size: 64
+wrap-x: false
+wrap-y: false
+normal:
+  strength: 4
+  method: sobel-high
+smooth:
+  value: 0.86
+f0:
+  value: 0.852
+emissive:
+  scale: 0.3
+model: entity/copper_golem

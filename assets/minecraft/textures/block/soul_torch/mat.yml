@@ -1,2 +1,6 @@
+wrap-x: false
+wrap-y: false
+f0:
+  value: 0.04
 emissive:
   scale: 0.7
