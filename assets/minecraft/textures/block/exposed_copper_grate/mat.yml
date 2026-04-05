@@ -1,6 +1,7 @@
 wrap-x: false
 wrap-y: false
+normal:
+  noise: 3
 hcm:
   value: 234
-porosity:
-  value: 0.8
+blend-mode: cutout

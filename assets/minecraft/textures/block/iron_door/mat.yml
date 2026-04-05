@@ -3,13 +3,13 @@ wrap-y: false
 hcm:
   value: 230
 parts:
-- name: acacia_door_top
+- name: iron_door_top
   left: 0
   top: 0
-  width: 32
-  height: 32
-- name: acacia_door_bottom
+  width: 16
+  height: 16
+- name: iron_door_bottom
   left: 0
-  top: 32
-  width: 32
-  height: 32
+  top: 16
+  width: 16
+  height: 16
