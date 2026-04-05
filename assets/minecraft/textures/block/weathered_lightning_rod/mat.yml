@@ -1,0 +1,18 @@
+wrap-x: false
+wrap-y: false
+smooth:
+  scale: 0.25
+f0:
+  value: 0.1
+model: block/weathered_lightning_rod
+filters:
+- name: end
+  width: 0.25
+  height: 0.25
+  normal-curve-x: 90
+  normal-curve-y: 90
+- name: rod
+  top: 0.25
+  width: 0.125
+  height: 0.75
+  normal-curve-x: 90

@@ -1,2 +1,6 @@
+smooth:
+  value: 0.26
+f0:
+  value: 0.028
 sss:
   value: 0.8

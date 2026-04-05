@@ -1,0 +1,6 @@
+wrap-x: false
+wrap-y: false
+emissive:
+  scale: 0.6
+model: block/copper_lantern
+blend-mode: cutout

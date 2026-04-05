@@ -1,0 +1,8 @@
+wrap-x: false
+wrap-y: false
+smooth:
+  scale: 0.25
+emissive:
+  scale: 0.2
+model: block/weathered_copper_lantern
+blend-mode: cutout

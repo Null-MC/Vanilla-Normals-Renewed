@@ -1,0 +1,8 @@
+wrap-x: false
+wrap-y: false
+smooth:
+  scale: 0.5
+emissive:
+  scale: 0.4
+model: block/exposed_copper_lantern
+blend-mode: cutout

@@ -1,0 +1,5 @@
+wrap-x: false
+hcm:
+  value: 230
+model: block/iron_chain
+blend-mode: cutout

@@ -1,0 +1,7 @@
+wrap-x: false
+smooth:
+  scale: 0.5
+hcm:
+  value: 234
+model: block/copper_chain
+blend-mode: cutout
